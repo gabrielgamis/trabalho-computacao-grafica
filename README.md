@@ -2,7 +2,7 @@
 
 🖥️ Explorando o Universo Gráfico com OpenGL: Uma Introdução Prática
 📌 Atividade Avaliativa P1
-👨‍🎓 Autor(es)
+👨‍🎓 Autores
 
 Gabriel Gamis, Fabrício Cobucci, Mateus Manhães e Samuel Leocadio
 
