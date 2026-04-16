@@ -110,20 +110,13 @@ Aplica translação
 Aplica rotação contínua (animação)
 Aplica escala
 Renderiza um triângulo animado
+
 🧪 Metodologia
 Desenvolvimento em Python
 Utilização da biblioteca OpenGL
 Implementação de exemplos progressivos
 Testes realizados localmente
-📂 Estrutura do Projeto
-projeto-opengl/
-│
-├── codigo1.py
-├── codigo2.py
-├── codigo3.py
-├── codigo4.py
-├── requirements.txt
-├── README.md
+
 
 🎥 Vídeo de Demonstração
 
