@@ -4,8 +4,7 @@
 📌 Atividade Avaliativa P1
 👨‍🎓 Autor(es)
 
-Gabriel Gamis
-(adicione outros integrantes se tiver grupo)
+Gabriel Gamis, Fabrício Cobucci, Mateus Manhães e Samuel Leocadio
 
 🎯 Objetivo Geral
 
