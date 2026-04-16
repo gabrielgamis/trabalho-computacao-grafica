@@ -132,17 +132,3 @@ projeto-opengl/
 ☁️ Código na Nuvem
 
 🔗 Link: https://github.com/gabrielgamis/trabalho-computacao-grafica
-
-⚠️ Observações
-Os códigos foram desenvolvidos em Python conforme exigido
-O projeto utiliza OpenGL no modo imediato
-É necessário que o ambiente possua suporte a OpenGL
-📊 Avaliação
-Trabalho prático valendo 8,0 pontos
-Entrega até 17/04/2026
-Pode ser feito em grupo (até 4 integrantes)
-📚 Referências
-Documentação oficial do OpenGL
-Documentação do PyOpenGL
-GLFW Documentation
-Materiais de aula
