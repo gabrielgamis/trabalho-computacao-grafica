@@ -1,0 +1,10 @@
+# Biblioteca para criação de janelas e captura de eventos (teclado/mouse)
+glfw==2.7.0
+
+# Implementação do OpenGL em Python
+PyOpenGL==3.1.7
+
+# Aceleração (opcional, melhora desempenho)
+PyOpenGL-accelerate==3.1.7
+
+# Para o código funcionar, favor escrever isso no prompt: pip install -r requirements.txt
